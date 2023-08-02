@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chap8Example</string>
+
+    <string name="title">Unit Converter</string>
+    <string name="hint">Enter the number of kilos.</string>
+    <string name="button">CONVERT</string>
+</resources>
