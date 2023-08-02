@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chap7Example</string>
+
+    <string name="hint">Please enter your name.</string>
+    <string name="button">SEND</string>
+    <string name="textView">Say HELLO.</string>
+    <string name="counter">Greeting count: 0</string>
+</resources>
