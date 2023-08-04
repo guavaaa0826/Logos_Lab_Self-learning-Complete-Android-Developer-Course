@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chap11Example</string>
+    <string name="FOO">FOO</string>
+
+    <string name="title">Lucky Number App</string>
+    <string name="hint">Tell me your name.</string>
+    <string name="button">LUCKY</string>
+
+    <string name="share">SHARE</string>
+</resources>
