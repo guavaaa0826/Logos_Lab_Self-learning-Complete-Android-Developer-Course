@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chap13Example</string>
+
+    <string name="time">PICK YOUR TIME</string>
+    <string name="date">PICK YOUR DATE</string>
+    <string name="progress">CLICK ME</string>
+</resources>
