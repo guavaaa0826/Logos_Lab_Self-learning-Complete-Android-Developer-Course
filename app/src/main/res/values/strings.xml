@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chap14Example</string>
+
+    <string name="title">English Teacher</string>
+    <string name="illness">ILLNESS</string> <!--pneumonoultramicroscopicsilicovolcanoconiosis-->
+    <string name="anxiety">ANXIETY</string> <!--hippopotomonstrosequipedaliophobia-->
+    <string name="amazing">AMAZING</string> <!--supercalifragilisticexpialidocious-->
+    <string name="trivial">TRIVIAL</string> <!--floccinaucinihilipilification-->
+    <string name="process">PROCESS</string> <!--antidisestablishmentarianism-->
+</resources>
