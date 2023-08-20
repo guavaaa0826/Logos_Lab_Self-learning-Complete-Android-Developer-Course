@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chap24Example</string>
+
+    <string name="button">GREET</string>
+    <string name="editName">Enter your name</string>
+    <string name="editEmail">Enter your email</string>
+</resources>
