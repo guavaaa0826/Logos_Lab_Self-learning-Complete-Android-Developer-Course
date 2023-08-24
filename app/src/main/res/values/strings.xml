@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chap24ContactManager</string>
+
+    <string name="hint_name">Enter your name</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="button">SUBMIT</string>
+</resources>
