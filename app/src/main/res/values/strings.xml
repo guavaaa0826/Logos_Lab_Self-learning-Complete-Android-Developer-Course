@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chap25Example</string>
+
+    <string name="foo">FOO</string>
+    <string name="edit_course">Enter the course name</string>
+    <string name="edit_price">Enter the price</string>
+    <string name="button_submit">SUBMIT</string>
+</resources>
