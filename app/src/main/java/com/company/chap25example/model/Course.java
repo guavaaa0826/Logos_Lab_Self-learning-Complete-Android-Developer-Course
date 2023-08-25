@@ -10,6 +10,8 @@ import androidx.room.Ignore;
 import androidx.room.PrimaryKey;
 import static androidx.room.ForeignKey.CASCADE;
 
+import java.util.Objects;
+
 @Entity(tableName = "course_table", foreignKeys = @ForeignKey(entity = Category.class,
         parentColumns = "id", childColumns = "category_id", onDelete = CASCADE))
 // CASCADE means a Category's deletion leads to every related Course's deletion.
@@ -74,5 +76,21 @@ public class Course extends BaseObservable {
     public void setCategoryId(int categoryId) {
         this.categoryId = categoryId;
         notifyPropertyChanged(BR.categoryId);
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Course course = (Course) o;
+        return courseId == course.courseId
+                && categoryId == course.categoryId
+                && courseName.equals(course.courseName)
+                && unitPrice.equals(course.unitPrice);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(courseId, courseName, unitPrice, categoryId);
     }
 }
