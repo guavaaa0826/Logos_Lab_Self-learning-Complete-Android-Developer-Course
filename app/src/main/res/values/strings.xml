@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chap30Example</string>
+    <string name="FOO">FOO</string>
+
+    <!-- activity_main.xml -->
+    <string name="username_hint">Enter the user name</string>
+    <string name="password_hint">Enter the password</string>
+    <string name="button_login">LOGIN</string>
+
+    <!-- activity_second.xml -->
+    <string name="button_submit">SUBMIT</string>
+</resources>
