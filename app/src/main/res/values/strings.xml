@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chap31Example</string>
+    <string name="FOO">FOO</string>
+
+    <string name="edit_name">Enter your name</string>
+    <string name="edit_email">Enter your email</string>
+    <string name="button_save">SAVE</string>
+    <string name="button_save_new">SAVE NEW</string>
+    <string name="button_get">GET</string>
+    <string name="button_get_all">GET ALL</string>
+    <string name="button_delete">DELETE</string>
+    <string name="button_update">UPDATE</string>
+</resources>
