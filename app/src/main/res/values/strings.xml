@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Chap32Example</string>
+
+    <!-- activity_main.xml & activity_register.xml -->
+    <string name="welcome">WELCOME</string>
+    <string name="hint_username">Enter the username</string>
+    <string name="hint_email">Enter the email</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="button_login">LOGIN</string>
+    <string name="button_register">REGISTER</string>
+
+    <!-- activity_add_journal.xml -->
+    <string name="post_title">Enter the post title</string>
+    <string name="post_thought">Enter your thoughts</string>
+    <string name="post_save">SAVE POST</string>
+
+    <!-- activity_journal_list.xml-->
+    <string name="list_no_post">NO POST</string>
+
+    <!-- menu.xml -->
+    <string name="menu_add">Add Journal</string>
+    <string name="menu_signOut">Sign Out</string>
+
+    <!-- journal_row.xml-->
+    <string name="row_title">TITLE</string>
+    <string name="row_description">Description</string>
+    <string name="row_date">Date created</string>
+</resources>
